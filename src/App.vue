@@ -8,6 +8,7 @@ import TheWelcome from './components/TheWelcome.vue'
     <h1>commit & push branch-test-01</h1>
     <h1>git reset --hard e621ec2</h1>
     <h1>test-n01</h1>
+    <h1>test-n02</h1>
     <img alt="Vue logo" class="logo" src="./assets/logo.svg" width="125" height="125" />
 
     <div class="wrapper">
